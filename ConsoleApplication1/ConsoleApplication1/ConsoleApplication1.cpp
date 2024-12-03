@@ -10,5 +10,6 @@ int main() {
     cout << "Десятичное: " << result << endl;
     cout << "Восьмеричное: " << oct << result << endl;
     cout << "Шестнадцатеричное: " << hex << result << endl;
+    cout << "Task Completed" << endl;
     return 0;
 }
